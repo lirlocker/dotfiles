@@ -1,0 +1,5 @@
+alias ls="ls --color=auto"
+
+alias k="kubectl"
+alias l="ls -l"
+alias la="ls -la"
