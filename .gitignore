@@ -21,3 +21,7 @@
 .config/k9s
 .config/gh
 .local/state
+.zsh_history
+.local/
+.oh-my-zsh
+.python_history
