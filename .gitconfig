@@ -13,3 +13,5 @@
 
 [includeIf "hasconfig:remote.*.url:https://github.com/wiz-sec/**"]
 	path = ~/.gitconfig.work
+[credential]
+	useHttpPath = true
