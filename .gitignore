@@ -25,3 +25,10 @@
 .local/
 .oh-my-zsh
 .python_history
+.dbus/
+.ipython/
+.node_repl_history
+.npm/
+.terraform.d/
+.viminfo
+.zkbd/

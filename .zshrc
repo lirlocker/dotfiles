@@ -13,3 +13,15 @@ source /home/linuxbrew/.linuxbrew/opt/powerlevel10k/powerlevel10k.zsh-theme
 
 # Aliases
 source ~/.aliases
+
+# To make sure you are using the correct git version for the git config file
+alias git=/home/linuxbrew/.linuxbrew/bin/git
+
+# Key bindings
+bindkey "^[[H"   beginning-of-line
+bindkey "^[[F"   end-of-line
+bindkey "^[[3~"  delete-char
+bindkey "^[[1;5C" forward-word
+bindkey "^[[1;5D" backward-word
+bindkey "^H"      backward-delete-word
+bindkey "^[[3;5~" delete-word
