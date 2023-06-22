@@ -1,0 +1,2 @@
+alias creds-rpc="export WIZ_CLIENT_ID=k7znxo6i65gb7g6gvu6mvcj6uu2kxf4fsi2fdx5p2yflat5aw2rgm && export WIZ_CLIENT_SECRET=IsjPP7y2mMXQjuSVdVWIyQmizVUDVBkaUJA2Rs5F89Nb2x7qfvPbsvGFv1U2YbtX"
+alias creds-gql="export WIZ_CLIENT_ID=k7znxo6i65gb7g6gvu6mvcj6uu2kxf4fsi2fdx5p2yflat5aw2rhg && export WIZ_CLIENT_SECRET=NBjKYLFxql9kn72ZxXlWx0V7xIOW3ol6fcUijWBahbQbBKGoxs0U2zaemVpfK7iw"

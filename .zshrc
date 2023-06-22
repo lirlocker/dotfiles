@@ -25,3 +25,11 @@ bindkey "^[[1;5C" forward-word
 bindkey "^[[1;5D" backward-word
 bindkey "^H"      backward-delete-word
 bindkey "^[[3;5~" delete-word
+
+# History
+export HISTFILE=~/.zsh_history
+export HISTFILESIZE=10000000
+export HISTSIZE=10000000
+export SAVEHIST=10000000
+setopt INC_APPEND_HISTORY
+setopt HIST_FIND_NO_DUPS

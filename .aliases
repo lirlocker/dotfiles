@@ -4,3 +4,9 @@ alias ls="ls --color=auto"
 alias k="kubectl"
 alias l="ls -l"
 alias la="ls -la"
+
+alias python=python3
+alias pip=pip3
+alias py=python3
+
+source ~/.aliases-work
